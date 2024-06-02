@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mg_surveyPage/static/css/main.3de724d3.chunk.css",
+    "main.js": "/mg_surveyPage/static/js/main.7fa3ab8d.chunk.js",
+    "main.js.map": "/mg_surveyPage/static/js/main.7fa3ab8d.chunk.js.map",
+    "runtime~main.js": "/mg_surveyPage/static/js/runtime~main.5b7d56df.js",
+    "runtime~main.js.map": "/mg_surveyPage/static/js/runtime~main.5b7d56df.js.map",
+    "static/js/2.15b5c64c.chunk.js": "/mg_surveyPage/static/js/2.15b5c64c.chunk.js",
+    "static/js/2.15b5c64c.chunk.js.map": "/mg_surveyPage/static/js/2.15b5c64c.chunk.js.map",
+    "index.html": "/mg_surveyPage/index.html",
+    "precache-manifest.ae211e91c50bfd8573b45c7ae833dfe3.js": "/mg_surveyPage/precache-manifest.ae211e91c50bfd8573b45c7ae833dfe3.js",
+    "service-worker.js": "/mg_surveyPage/service-worker.js",
+    "static/css/main.3de724d3.chunk.css.map": "/mg_surveyPage/static/css/main.3de724d3.chunk.css.map",
+    "static/media/굴레.png": "/mg_surveyPage/static/media/굴레.9e6ddbb4.png",
+    "static/media/망개.png": "/mg_surveyPage/static/media/망개.e885f70b.png",
+    "static/media/밥알.png": "/mg_surveyPage/static/media/밥알.d85faffd.png",
+    "static/media/사과.png": "/mg_surveyPage/static/media/사과.78e77c18.png",
+    "static/media/수제.png": "/mg_surveyPage/static/media/수제.9bfa3f87.png",
+    "static/media/오메기.png": "/mg_surveyPage/static/media/오메기.1a38d46a.png",
+    "static/media/흑임자.png": "/mg_surveyPage/static/media/흑임자.4693c29e.png"
+  }
+}
